@@ -1,0 +1,134 @@
+🔹 Lesson 3: Control Flow in Java (If Statements & Loops) 🚀
+Now that you understand variables & data types, let’s move to Control Flow—how Java makes decisions and repeats tasks.
+
+📌 By the end of this lesson, you’ll be able to:
+✅ Use if-else statements for decision-making
+✅ Use loops (for, while) to repeat actions
+✅ Understand how conditions work in Java
+
+✅ 1️⃣ If-Else Statements (Decision-Making)
+✔ An if statement runs code only if the condition is true.
+✔ An else statement runs when the condition is false.
+
+🔹 Example: Check if Someone Can Vote
+java
+Copy
+Edit
+public class Voting {
+    public static void main(String[] args) {
+        int age = 17;
+
+        if (age >= 18) {  // Condition
+            System.out.println("You can vote!");
+        } else {
+            System.out.println("You cannot vote yet.");
+        }
+    }
+}
+✔ Expected Output:
+
+nginx
+Copy
+Edit
+You cannot vote yet.
+✅ 2️⃣ If-Else If-Else (Multiple Conditions)
+✔ Use else if to check multiple conditions.
+
+🔹 Example: Grading System
+java
+Copy
+Edit
+public class Grades {
+    public static void main(String[] args) {
+        int score = 85;
+
+        if (score >= 90) {
+            System.out.println("Grade: A");
+        } else if (score >= 80) {
+            System.out.println("Grade: B");
+        } else if (score >= 70) {
+            System.out.println("Grade: C");
+        } else {
+            System.out.println("Grade: F");
+        }
+    }
+}
+✔ Expected Output:
+
+makefile
+Copy
+Edit
+Grade: B
+✅ 3️⃣ Loops in Java (Repeating Code)
+✔ Loops allow Java to repeat a task multiple times.
+
+🔹 for Loop (Fixed Repetitions)
+A for loop runs a specific number of times.
+
+java
+Copy
+Edit
+public class LoopExample {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {  // Loops from 1 to 5
+            System.out.println("Iteration: " + i);
+        }
+    }
+}
+✔ Expected Output:
+
+makefile
+Copy
+Edit
+Iteration: 1
+Iteration: 2
+Iteration: 3
+Iteration: 4
+Iteration: 5
+🔹 while Loop (Runs Until a Condition is False)
+A while loop keeps running as long as the condition is true.
+
+java
+Copy
+Edit
+public class WhileExample {
+    public static void main(String[] args) {
+        int count = 1;
+
+        while (count <= 3) {  // Runs while count is 3 or less
+            System.out.println("Count: " + count);
+            count++;  // Increases count
+        }
+    }
+}
+✔ Expected Output:
+
+makefile
+Copy
+Edit
+Count: 1
+Count: 2
+Count: 3
+🔹 do-while Loop (Runs At Least Once)
+A do-while loop always runs at least once, even if the condition is false.
+
+java
+Copy
+Edit
+public class DoWhileExample {
+    public static void main(String[] args) {
+        int number = 5;
+
+        do {
+            System.out.println("Number is: " + number);
+            number++;
+        } while (number < 3);  // ❌ This condition is already false
+    }
+}
+✔ Expected Output:
+
+csharp
+Copy
+Edit
+Number is: 5
+🔹 Why? The loop runs once before checking the condition.
