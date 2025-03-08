@@ -73,14 +73,3 @@ Sum: 8
 Product: 8
 Remainder: 1
 
-🏋️ Exercises: Apply What You Learned!
-1️⃣ Modify "Hello World"
-Print 3 different lines of text instead of 1
-
-2️⃣ Create a Java file Variables.java
-Define name, age, isStudent, gpa, initial
-Print all variables
-
-3️⃣ Create a Java file MathOperations.java
-Perform +, -, *, /, % operations
-Print results
