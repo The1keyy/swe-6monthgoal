@@ -1,0 +1,86 @@
+🔹 Java Basics: Full Lesson & Exercises 🚀
+
+📌 Lesson 1: Java Basics Overview
+Java is a high-level programming language used for web apps, mobile apps, and enterprise software.
+
+🔹 Basic Concepts in Java
+1️⃣ Variables & Data Types
+2️⃣ Operators & Expressions
+3️⃣ Control Flow (if, loops)
+4️⃣ Methods & Functions
+5️⃣ Arrays & Strings
+6️⃣ Object-Oriented Programming (OOP Basics)
+
+📌 Java Program Structure
+Every Java program follows this structure:
+
+public class MyProgram {   // Class Declaration
+    public static void main(String[] args) {  // Main Method
+        System.out.println("Hello, Java!");   // Print Statement
+    }
+}
+
+✔ Key Parts:
+✅ Class (MyProgram) → The blueprint of your program
+✅ Main Method (main) → Entry point where the program starts
+✅ Print Statement (System.out.println) → Displays output
+
+📌 Lesson 2: Java Variables & Data Types
+🔹 Variables
+A variable is a container that stores data.
+
+int age = 25;  // Stores a whole number
+double price = 19.99; // Stores decimal values
+boolean isJavaFun = true; // Stores true/false
+String name = "Alice"; // Stores text
+
+📌 Java Data Types
+Type      Example               Purpose
+int       int x = 10;           Whole numbers
+double    double pi = 3.14;     Decimal numbers
+boolean   boolean isOn = true;  True/False values
+char      char letter = 'A';    Single character
+String    String name = "Bob";  Text
+
+📌 Lesson 3: Operators in Java
+Java uses operators to perform math and logical operations.
+
+🔹 Arithmetic Operators
+Operator   Description      Example
++          Addition         5 + 3 = 8
+-          Subtraction      9 - 4 = 5
+*          Multiplication   6 * 2 = 12
+/          Division         10 / 2 = 5
+%          Modulus          10 % 3 = 1
+
+✔ Example in Java:
+
+public class MathExample {
+    public static void main(String[] args) {
+        int sum = 5 + 3;
+        int product = 4 * 2;
+        int remainder = 10 % 3;
+
+        System.out.println("Sum: " + sum);
+        System.out.println("Product: " + product);
+        System.out.println("Remainder: " + remainder);
+    }
+}
+
+✔ Expected Output:
+
+Sum: 8
+Product: 8
+Remainder: 1
+
+🏋️ Exercises: Apply What You Learned!
+1️⃣ Modify "Hello World"
+Print 3 different lines of text instead of 1
+
+2️⃣ Create a Java file Variables.java
+Define name, age, isStudent, gpa, initial
+Print all variables
+
+3️⃣ Create a Java file MathOperations.java
+Perform +, -, *, /, % operations
+Print results
