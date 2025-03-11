@@ -1,29 +1,31 @@
+# 6-Month Software Engineering Roadmap  
+
+Tracking my **learning progress, projects, and technical skills** over six months.  
+
 ## 📅 Weekly Roadmap Progress  
-I’m staying on track with my **6-Month Roadmap Goal**.  
 
-| Week | Topic | Status |
-|------|------------------------|----------------|
-| 1️⃣  | Java Basics & OOP      | 🚀 In Progress |
-| 2️⃣  | Arrays & Strings       | ⬜ Not Started |
-| 3️⃣  | Recursion & Linked Lists | ⬜ Not Started |
-| 4️⃣  | Trees & Graphs         | ⬜ Not Started |
-| 5️⃣  | Stacks & Queues        | ⬜ Not Started |
-| 6️⃣  | System Design Basics  | ⬜ Not Started |
-| 7️⃣  | AWS Basics            | ⬜ Not Started |
-| 8️⃣  | Linux & Shell Scripting | ⬜ Not Started |
-| 9️⃣  | Docker & Kubernetes   | ⬜ Not Started |
-| 🔟  | CI/CD (Jenkins, GitHub Actions) | ⬜ Not Started |
-| 1️⃣1️⃣ | Terraform & Infrastructure as Code | ⬜ Not Started |
-| 1️⃣2️⃣ | Final Project Deployment | ⬜ Not Started |
-
----
+| Week | Topic | Duration | Status |
+|------|------------------------|------------|----------------|
+| 1️⃣  | Java Basics & OOP      | 2 Weeks | 🚀 In Progress |
+| 2️⃣  | Arrays & Strings       | 1.5 Weeks | ⬜ Not Started |
+| 3️⃣  | Recursion & Linked Lists | 1.5 Weeks | ⬜ Not Started |
+| 4️⃣  | Trees & Graphs         | 2 Weeks | ⬜ Not Started |
+| 5️⃣  | Stacks & Queues        | 1.5 Weeks | ⬜ Not Started |
+| 6️⃣  | System Design Basics  | 2 Weeks | ⬜ Not Started |
+| 7️⃣  | AWS Basics            | 1.5 Weeks | ⬜ Not Started |
+| 8️⃣  | Linux & Shell Scripting | 1.5 Weeks | ⬜ Not Started |
+| 9️⃣  | Docker & Kubernetes   | 2 Weeks | ⬜ Not Started |
+| 🔟  | CI/CD (Jenkins, GitHub Actions) | 2 Weeks | ⬜ Not Started |
+| 1️⃣1️⃣ | Terraform & Infrastructure as Code | 1.5 Weeks | ⬜ Not Started |
+| 1️⃣2️⃣ | Final Project Deployment | 2 Weeks | ⬜ Not Started |
 
 ## 🎯 Goals  
-- ✅ **Master Java & DSA** for problem-solving.  
-- ✅ **Understand System Design concepts.**  
-- ✅ **Learn and deploy projects on AWS.**  
-- ✅ **Use Docker & Kubernetes for containerized applications.**  
-- ✅ **Build CI/CD Pipelines & Automate Deployments.**  
-- ✅ **Deploy a Final Full-Stack Project using DevOps tools.**  
+
+- **Strengthen Java & DSA skills**  
+- **Understand System Design fundamentals**  
+- **Gain hands-on experience with AWS & cloud deployments**  
+- **Use Docker & Kubernetes for containerized applications**  
+- **Implement CI/CD pipelines for automation**  
+- **Deploy a full-stack project using DevOps tools**  
 
 ---
