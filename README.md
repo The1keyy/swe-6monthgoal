@@ -1,6 +1,6 @@
 # 6-Month Software Engineering Roadmap  
 
-Tracking my **learning progress, projects, and technical skills** over six months.  
+Tracking my **learning progress and technical skills in java ** over six months.  
 
 ## 📅 Weekly Roadmap Progress  
 
