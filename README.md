@@ -1,60 +1,31 @@
-# Welcome to my 6-Month Roadmap goal ** repository!  
-This repo tracks my learning progress, projects, and coding challenges.
+# 6-Month Software Engineering Roadmap  
 
-## 📅 Weekly Roadmap
-| Week | Topic | Status |
-|------|------------------------|--------|
-| 1️⃣  | Java Basics & OOP      | ⬜ Not Started |
-| 2️⃣  | Arrays & Strings       | ⬜ Not Started |
-| 3️⃣  | Recursion & Linked Lists | ⬜ Not Started |
-| 4️⃣  | Trees & Graphs         | ⬜ Not Started |
-| 5️⃣  | Stacks & Queues        | ⬜ Not Started |
-| 6️⃣  | System Design Basics  | ⬜ Not Started |
-| 7️⃣  | AWS Basics            | ⬜ Not Started |
-| 8️⃣  | Linux & Shell Scripting | ⬜ Not Started |
-| 9️⃣  | Docker & Kubernetes   | ⬜ Not Started |
-| 🔟  | CI/CD (Jenkins, GitHub Actions) | ⬜ Not Started |
-| 1️⃣1️⃣ | Terraform & Infrastructure as Code | ⬜ Not Started |
-| 1️⃣2️⃣ | Final Project Deployment | ⬜ Not Started |
+Tracking my **learning progress and technical skills in java ** over six months.  
 
-## 📂 Folder Structure
-```
-swe-6monthgoal/
-├── notes/                  # Study Notes
-│   ├── java-basics.md
-│   ├── data-structures.md
-│   ├── system-design.md
-│   ├── aws-notes.md
-│   ├── docker-kubernetes.md
-│
-├── projects/               # Hands-on Projects
-│   ├── banking-system/
-│   ├── java-web-app/
-│   ├── cloud-deployment/
-│
-├── leetcode/               # DSA Practice Solutions
-│   ├── arrays-strings.md
-│   ├── recursion-linkedlist.md
-│   ├── trees-graphs.md
-│
-├── roadmap.md              # Weekly Progress Tracker
-├── README.md               # Overview my ur Journey
-```
+## 📅 Weekly Roadmap Progress  
 
-## 📈 Progress Tracking
-Check out my [roadmap.md](./roadmap.md) for weekly updates.
+| Week | Topic | Duration | Status |
+|------|------------------------|------------|----------------|
+| 1️⃣  | Java Basics & OOP      | 2 Weeks | 🚀 In Progress |
+| 2️⃣  | Arrays & Strings       | 1.5 Weeks | ⬜ Not Started |
+| 3️⃣  | Recursion & Linked Lists | 1.5 Weeks | ⬜ Not Started |
+| 4️⃣  | Trees & Graphs         | 2 Weeks | ⬜ Not Started |
+| 5️⃣  | Stacks & Queues        | 1.5 Weeks | ⬜ Not Started |
+| 6️⃣  | System Design Basics  | 2 Weeks | ⬜ Not Started |
+| 7️⃣  | AWS Basics            | 1.5 Weeks | ⬜ Not Started |
+| 8️⃣  | Linux & Shell Scripting | 1.5 Weeks | ⬜ Not Started |
+| 9️⃣  | Docker & Kubernetes   | 2 Weeks | ⬜ Not Started |
+| 🔟  | CI/CD (Jenkins, GitHub Actions) | 2 Weeks | ⬜ Not Started |
+| 1️⃣1️⃣ | Terraform & Infrastructure as Code | 1.5 Weeks | ⬜ Not Started |
+| 1️⃣2️⃣ | Final Project Deployment | 2 Weeks | ⬜ Not Started |
 
-## 📌 Goals
-- ✅ **Master Java & DSA** for problem-solving.
-- ✅ **Understand System Design concepts**.
-- ✅ **Learn and deploy projects on AWS**.
-- ✅ **Use Docker & Kubernetes for containerized applications**.
-- ✅ **Build CI/CD Pipelines & Automate Deployments**.
-- ✅ **Deploy a Final Full-Stack Project using DevOps tools**.
+## 🎯 Goals  
+
+- **Strengthen Java & DSA skills**  
+- **Understand System Design fundamentals**  
+- **Gain hands-on experience with AWS & cloud deployments**  
+- **Use Docker & Kubernetes for containerized applications**  
+- **Implement CI/CD pipelines for automation**  
+- **Deploy a full-stack project using DevOps tools**  
 
 ---
-
-## 🚀 Next Steps
-📌 **Need to start with Java Basics?** See [java-basics.md](./notes/java-basics.md)  
-📌 **Looking for LeetCode Problems?** See [leetcode/](./leetcode/)  
-📌 **Working on a project?** Check out [projects/](./projects/)
