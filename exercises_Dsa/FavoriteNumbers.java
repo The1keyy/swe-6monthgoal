@@ -28,7 +28,7 @@ Calculate the sum of the three numbers
 
 Print the result with a message like:
 
-The sum of my favorite numbers is: 8 */
+The sum of my favorite numbers is: 8 
 
 public class FavoriteNumbers {
     public static void main (String[] args) {
@@ -41,4 +41,13 @@ public class FavoriteNumbers {
         System.out.println("The sum of my favorite numbers is: " + ( favorite[0] + favorite[1] + favorite[2]));
 
     }
-}
+} 
+    🔹 Exercise Instructions:
+1️⃣ Create (or reuse) your FavoriteNumbers class
+2️⃣ Use a for loop to:
+
+Print each number in the array
+
+Add them to a variable called sum
+3️⃣ Print the total sum after the loop */
+
