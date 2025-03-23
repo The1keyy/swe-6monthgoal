@@ -46,4 +46,20 @@ public class FavoriteQuote{
     }
 }
 
+Write a program that:
+
+Loops through the string character by character
+
+Prints each character on a new line
+
+Also prints the index with it like:
+
 */
+ public class FavoriteQuote{
+    public static void main (String [] args){
+        String quote = "Success is not final, failure is not fatal";
+        for ( int i = 0 ; i < quote.length() ; i++){
+            System.out.println("Character at index " + i + " : " + quote.charAt(i));
+        }
+    }
+ }
