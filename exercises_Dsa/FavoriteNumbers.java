@@ -91,7 +91,7 @@ Loops through the array
 
 Counts how many numbers are even (number % 2 == 0)
 
-*/
+
 
 public class FavoriteNumbers{
     public static void main (String[] agrs){
@@ -105,4 +105,22 @@ public class FavoriteNumbers{
         }
         System.out.println(" There are " + count +  " even number(s) in the array.");
     }
+}
+
+Write a Java program that:
+
+Loops through the array backwards
+
+Prints each element in reverse order */
+
+
+public class FavoriteNumbers{
+    public static void main(String[] args) {
+    int [] favorite = {5 , 2 , 1};
+
+    for( int i = favorite.length -1 ; i >= 0 ; i--){
+        System.out.println(favorite[i]);
+    }
+}
+
 }
