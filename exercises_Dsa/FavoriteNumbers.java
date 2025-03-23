@@ -49,7 +49,7 @@ public class FavoriteNumbers {
 Print each number in the array
 
 Add them to a variable called sum
-3️⃣ Print the total sum after the loop */
+3️⃣ Print the total sum after the loop 
 
 public class FavoriteNumbers {
     public static void main (String [] args){
@@ -63,4 +63,12 @@ public class FavoriteNumbers {
         System.out.println("The total is: " + sum);
     }
 }
+Exercise: Find the Maximum Number in an Array
+🧠 Task:
+You are given an array of integers. Write a Java program that:
+
+Loops through the array
+
+Finds the largest number */
+
 
