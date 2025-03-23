@@ -1,4 +1,4 @@
-/**
+ /**
  Create a class called FavoriteNumbers.java
 Inside:
 
@@ -50,4 +50,17 @@ Print each number in the array
 
 Add them to a variable called sum
 3️⃣ Print the total sum after the loop */
+
+public class FavoriteNumbers {
+    public static void main (String [] args){
+        int[] favorite = { 5 , 2, 1};
+        int sum = 0; 
+
+        for( int i = 0; i < favorite.length; i++){
+            System.out.println(favorite[i]);
+            sum += favorite[i];
+        }
+        System.out.println("The total is: " + sum);
+    }
+}
 
