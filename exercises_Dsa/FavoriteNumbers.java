@@ -69,6 +69,26 @@ You are given an array of integers. Write a Java program that:
 
 Loops through the array
 
-Finds the largest number */
+Finds the largest number 
 
+public class FavoriteNumbers {
+    public static void main(String[] args){
+        int[] favorite = {5, 2, 1};
+        int max = favorite[0];
 
+        for ( int i = 1; i < favorite.length; i++ ){
+            if (max < favorite[i]){
+                max = favorite[i];
+            }
+        }
+        System.out.println("The largest number is: " + max);
+    }
+}
+
+Write a Java program that:
+
+Loops through the array
+
+Counts how many numbers are even (number % 2 == 0)
+
+*/
