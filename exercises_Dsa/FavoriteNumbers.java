@@ -92,3 +92,17 @@ Loops through the array
 Counts how many numbers are even (number % 2 == 0)
 
 */
+
+public class FavoriteNumbers{
+    public static void main (String[] agrs){
+        int [] favorite = {5 , 2, 1 };
+        int count = 0;
+
+        for ( int i = 0; i < favorite.length; i++){
+            if ( favorite[i] % 2 == 0){
+                count += 1;
+            }
+        }
+        System.out.println(" There are " + count +  " even number(s) in the array.");
+    }
+}
