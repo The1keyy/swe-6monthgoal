@@ -54,12 +54,31 @@ Prints each character on a new line
 
 Also prints the index with it like:
 
-*/
+
  public class FavoriteQuote{
     public static void main (String [] args){
         String quote = "Success is not final, failure is not fatal";
         for ( int i = 0 ; i < quote.length() ; i++){
             System.out.println("Character at index " + i + " : " + quote.charAt(i));
         }
+    }
+ }  
+
+ You’re still working with this quote:
+String quote = "Success is not final, failure is not fatal";
+Write a Java program that:
+
+Extracts and prints the word "Success" using .substring()
+
+Extracts and prints the word "failure"
+
+Extracts and prints the last word "fatal"
+
+
+ */
+
+ public class FavoriteNumbers {
+    public static void main(String [] args){
+        
     }
  }
