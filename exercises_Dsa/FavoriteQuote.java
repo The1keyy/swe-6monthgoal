@@ -122,3 +122,15 @@ Prints whether it is or is not a palindrome
 
 */
 
+public class FavoriteQuote{
+    public static void main(String [] args){
+        String word = "madam";
+        StringBuilder reverse = new StringBuilder();
+
+        for( i = word.length(); i > 0 ; i--){
+
+        }
+
+
+    }
+}
